@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANSHIKA910
 - 👀 I’m interested in web design , web development, graphic design , etc.
-- 🌱 I’m currently doing Btech in CSE with specializations in AI.
+- 🌱 I’m currently doing Btech in CSE with specializations in AIML.
 - 📫 You can reach me on Linked in www.linkedin.com/in/anshika-jain-308966213
 
 <!---
